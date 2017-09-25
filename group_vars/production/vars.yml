@@ -1,0 +1,5 @@
+# STS role and target account
+sts_role_arn: arn:aws:iam::543279062384:role/admin
+
+# Stack settings
+config_github_token: AQECAHi+H8CCveyMphd5OgXcx8kjaBcYpSr5/ZICg4CeeZvrNQAAAIcwgYQGCSqGSIb3DQEHBqB3MHUCAQAwcAYJKoZIhvcNAQcBMB4GCWCGSAFlAwQBLjARBAyfOQXdRudxZNdIJFwCARCAQwZckg7JCyjGY0cvZjZjoSzjNthI+2V+wylNF9kfazFZoU221Arx0S7QLRkjlpdEAE+iozpaWQZJcHJeeVJ4+KiMXlg=
