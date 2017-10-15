@@ -1,1 +1,2 @@
-cf_stack_name: microtrader-pipeline
+### Global settings
+Stack.Name: microtrader-pipeline
